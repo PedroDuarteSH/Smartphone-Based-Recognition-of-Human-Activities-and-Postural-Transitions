@@ -1,0 +1,70 @@
+|Tipo de atividade| Atividade      |                               | Hamming     | Hann     | Flat Top |
+|:--- | :---  | :---  | :---: | :---:   |:---: |
+|**Dinamicas:**|
+|                 | Walking        |                               |             |          |          |
+|                 |                | Leakege Factor                |      0.04%  | 0.05%    |    0%    |
+|                 |                | Relative Side Lobe Atenuation |     -42.7 dB|  -31.5 dB| -93.6 dB |
+|                 |                | Mainlobe width (-3db)         | 0.0026855   | 0.0029297|0.0080566 |
+|                 |                | Mean Noise Bandwidth          |    0.0749   | 0.0824   |0.2072    |
+|                 |WALKING_UPSTRS   |                              |             |          |          |
+|                 |                | Leakege Factor                |      0.04%  | 0.05%    |    0%    |
+|                 |                | Relative Side Lobe Atenuation |     -42.7 dB|  -31.5 dB| -93.6 dB |
+|                 |                | Mainlobe width (-3db)         |   0.0041504 |0.0046387 |0.012207  |
+|                 |                | Mean Noise Bandwidth          |0.1122       |0.1236    |0.3106    |
+|                 | WALKING_DWSTRS |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          | 0.0727      |   0.1236 |   0.3106 |
+|**Estáticas:**   |
+|                 | SITTING        |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | STANDING       |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | LAYING         |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|**De transição:**|
+|                 | STAND_TO_SIT   |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | SIT_TO_STAND   |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | SIT_TO_LIE     |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | LIE_TO_SIT     |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | STAND_TO_LIE   |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | LIE_TO_STAND   |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
+|                 | STANDING       |                               |             |          |          |
+|                 |                | Leakege Factor                |             |          |          |
+|                 |                | Relative Side Lobe Atenuation |             |          |          |
+|                 |                | Mainlobe width (-3db)         |             |          |          |
+|                 |                | Mean Noise Bandwidth          |             |          |          |
